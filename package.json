@@ -1,0 +1,22 @@
+{
+  "name": "zadanie_8_3",
+  "version": "1.0.0",
+  "description": "zadanie 8.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goodscout/zadanie_8_3.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Marta Lewsza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goodscout/zadanie_8_3/issues"
+  },
+  "homepage": "https://github.com/Goodscout/zadanie_8_3#readme"
+}
